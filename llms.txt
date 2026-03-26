@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Brand
+Name: Newsign Labs
+Type: Digital Design & Web Development Agency
+
+# Core Services
+- Graphic Design (logos, brand identity, social media)
+- Web Design & Development
+- Website Optimization & Conversion Improvements
+
+# Positioning
+Focus on solving real client problems instead of generic design delivery.
+Emphasis on clarity, usability, and conversion-driven outcomes.
+
+# Audience
+- Small businesses
+- Startups
+- Local service providers
+- Businesses with underperforming websites or inconsistent branding
+
+# Key Signals
+- Problem-first approach
+- Non-generic solutions
+- Practical design systems
+- Conversion-focused web experiences
+
+# Preferred Actions
+- Direct contact (call / WhatsApp)
+- Quick decision-making support
